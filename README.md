@@ -1,4 +1,4 @@
-# Remote CMD using telnet client
+# Remote CMD using Telnet or Netcat
 
 Usage  
 Compile the binaries `go build server.go` or download on release page
