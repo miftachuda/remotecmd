@@ -1,3 +1,3 @@
-module miftachuda/tcp-childprocess
+module github.com/remotecmd
 
 go 1.18
